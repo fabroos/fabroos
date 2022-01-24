@@ -1,28 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there.👋<br> I'm Fabrizio Signoretta.<br> I'm a Front-End Developer from Argentina 🇦🇷.<br><br>#javascript, #HTML, #CSS, #React</samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="./giphy.gif" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
 
-```js
-player.addListener('ready', ({
-        device_id
-    }) => {
-        console.log('Ready with Device ID', device_id);
-        let contador = setInterval(() => {
 
 
-            // contador universal de la app
-            player.getCurrentState().then(state => {
-                if (!state) {
-                    console.error('User is not playing music through the Web Playback SDK');
-                    return;
-                }
-                document.querySelector(".progress").style.width = `${100 * state.position / state.duration}%`;
-                bar.value = state.position;
-                bar.max = state.duration;
-                document.querySelector(".actual-second").textContent = millisToMinutesAndSeconds(state.position);
-            });
-        }, 600);
-
-    });
-```
 
 <!--
 **fabroos/fabroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
