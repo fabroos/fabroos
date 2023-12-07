@@ -51,16 +51,3 @@ I love the front-end development, but I'm able to work with backend too.
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 ![Figma](https://img.shields.io/badge/-Figma-349?style=flat-square&logo=figma)
 ![ChakraUi](https://img.shields.io/badge/-Illustrator-ccc?style=flat-square&logo=adobeillustrator)
-
-
-## 📈 Stats
-<p >
-	
-  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api?username=fabroos&show_icons=true&theme=dark" />
-  <img width="42%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
-  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=fabroos&bg_color=1d1d1d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true&theme=dark" />
-  <br/>
-  <br/>
-  <br/>  
-  <img width="20%" align="center" src="https://media2.giphy.com/media/NHUONhmbo448/giphy.gif?cid=ecf05e47iylt1bdhjwaf4hmk5adyyhshabrd9c4qnvnxr12r&rid=giphy.gif&ct=g" />
-</p>
